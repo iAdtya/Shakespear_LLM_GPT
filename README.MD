@@ -11,7 +11,7 @@ decoder-only architecture, optimized for autoregressive text generation, similar
 
 ## Output OF Model
 
-``` text
+```text
 No sleep;
 Here well, sir, I for him left kill'd Ratclifford.
 Is Margaret, to my king singerous soul
@@ -31,3 +31,11 @@ DERBY:
 Fall, in the news of absent, virtuous soul block,
 My plicturely each t
 ```
+
+## Self-Attention
+
+![Self Attention](./Attention.png)
+
+## Gradient Descent
+
+![Gradient Descent](./Gradient_Descent.png)
