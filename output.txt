@@ -1,17 +1,3 @@
-# Introduction
-
-Implemented a Transformer-based Bigram model using PyTorch for next-character prediction with a
-decoder-only architecture, optimized for autoregressive text generation, similar to models like GPT (Generative Pre-trained Transformer).
-
-## System Design
-
-![Transformer](./Transformer_architecture.png)
-
-<!-- ![Transformer](./diagram-export-10-7-2024-9_05_16-PM.png) -->
-
-## Output OF Model
-
-``` text
 No sleep;
 Here well, sir, I for him left kill'd Ratclifford.
 Is Margaret, to my king singerous soul
@@ -30,4 +16,3 @@ In that this fool afters: but what this is the most?
 DERBY:
 Fall, in the news of absent, virtuous soul block,
 My plicturely each t
-```
